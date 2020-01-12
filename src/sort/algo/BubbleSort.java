@@ -18,7 +18,6 @@ public class BubbleSort {
 			}
 		}
 		return sort;
-
 	}
 
 	public static void main(String[] args) {
